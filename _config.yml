@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Aditya Palaparthi / Aditya Palaparthi's Academic Website"
+title                    : "Aditya Palaparthi's Academic Website"
 title_separator          : "-"
-name                     : &name "Aditya Palaparthi"
+name                     : &name "Adityak Palaparthi"
 description              : &description "Aditya Palaparthi's Academic Website"
 url                      : https://palapav.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Aditya Palaparthi"
   pronouns         : # example: "she/her"  
-  bio              : "Senior in the Department of Computer Science at Princeton University"
+  bio              : "Senior in Princeton's Computer Science Department"
   location         : "Princeton, NJ"
   employer         : "Princeton University"
   uri              : # URL
@@ -216,13 +216,13 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
