@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Aditya Palaparthi's Academic Website"
+title                    : "Aditya Palaparthi"
 title_separator          : "-"
-name                     : &name "Adityak Palaparthi"
-description              : &description "Aditya Palaparthi's Academic Website"
+name                     : &name "Aditya Palaparthi"
+description              : &description "Aditya Palaparthi"
 url                      : https://palapav.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Aditya Palaparthi"
   pronouns         : # example: "she/her"  
-  bio              : "Senior in Princeton's Computer Science Department"
+  bio              : "CS @ Princeton University"
   location         : "Princeton, NJ"
   employer         : "Princeton University"
   uri              : # URL
@@ -236,9 +236,9 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
-      share: true
-      related: true
+      comments: false
+      share: false
+      related: false
   # _pages
   - scope:
       path: ""
@@ -253,8 +253,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _publications
   - scope:
       path: ""
@@ -262,8 +262,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _portfolio
   - scope:
       path: ""
@@ -271,8 +271,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comment: true
+      share: false
+      comment: false
   # # _talks
   # - scope:
   #     path: ""

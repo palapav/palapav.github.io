@@ -3,9 +3,9 @@ title: "Machine Learning and Data Science "
 collection: teaching
 type: "<ach"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "Princeton University CS Department"
 date: 2014-01-01
-location: "City, Country"
+location: "Princeton, NJ"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
