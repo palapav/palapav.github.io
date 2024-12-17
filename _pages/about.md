@@ -14,7 +14,7 @@ and deep reinforcement learning methods with applications in
 science, engineering, and cognitive science. One of my long-term goals
 is to leverage AI in efficiently designing novel systems that optimally interact with the physical world.
 
-I am also passionate about teaching computer science to inspire curiosity and innovation in students. I am currently a teaching assistant for Senior Lecturer [Xiaoyan Li](https://www.cs.princeton.edu/people/profile/xiaoyan)'s Machine Learning and Data Science undergraduate research seminar and Professor Sarah-Jane Leslie's course: Artifical Intelligence: A Hands-On Introduction from Basics to ChatGPT.
+I am also passionate about teaching computer science to inspire curiosity and innovation in students from all backgrounds. I am currently a teaching assistant for Senior Lecturer [Xiaoyan Li](https://www.cs.princeton.edu/people/profile/xiaoyan)'s Machine Learning and Data Science undergraduate research seminar and Professor Sarah-Jane Leslie's course: Artifical Intelligence: A Hands-On Introduction from Basics to ChatGPT.
 
 For industry experiences, I previously was a research intern at [Ansys](https://www.ansys.com) working under [Jay Pathak](https://www.linkedin.com/in/jayppathak/) in the Office of the CTO on novel applied deep learning applications in 3D engineering design and simulation.
 

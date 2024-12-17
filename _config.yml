@@ -215,30 +215,36 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
-    output: false
+  research:
+    output: true
     permalink: /:collection/:path/
   portfolio:
+    output: true
+    permalink: /:collection/:path/
+  coursework:
     output: true
     permalink: /:collection/:path/
   talks:
     output: false
     permalink: /:collection/:path/
+  coursework:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: false
-      share: false
-      related: false
+  # # _posts
+  # - scope:
+  #     path: ""
+  #     type: posts
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     read_time: true
+  #     comments: false
+  #     share: false
+  #     related: false
   # _pages
   - scope:
       path: ""
@@ -273,6 +279,18 @@ defaults:
       author_profile: true
       share: false
       comment: false
+
+  # _coursework
+  - scope:
+      path: ""
+      type: coursework
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comment: false
+
+
   # # _talks
   # - scope:
   #     path: ""
