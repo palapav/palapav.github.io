@@ -7,16 +7,16 @@ author_profile: true
 
 ### If not available on GitHub, code for all projects are available upon [request](mailto:avpalaparthi@gmail.com).
 
-## [AlphaZero Implementation][https://github.com/palapav/Pure-AlphaZero-Connect4]
+## [AlphaZero Implementation](https://github.com/palapav/Pure-AlphaZero-Connect4)
 Implemented Google Deepmind's AlphaZero algorithm in PyTorch to intelligently play Tic-Tac-Toe and Connect4.
 
-## [Bit String Design with GFlowNets][https://github.com/palapav/bitstreams-gflownet]
+## [Bit String Design with GFlowNets](https://github.com/palapav/bitstreams-gflownet)
 Implemented a GFlowNet in PyTorch to construct desired bit strings.
 
-## [ClubPrinceton][https://github.com/aabid-ism/ClubPrinceton]
+## [ClubPrinceton](https://github.com/aabid-ism/ClubPrinceton)
 Developed a social media application with the goal of connecting 3000+ Princeton students with 100+ on-campus organizations. Implemented full-stack services, such as user ratings, club account creation/approval, and club page administration.
 
-## [Implementation CAS Authentication in ExpressJS][https://github.com/palapav/CAS-Auth-ExpressJS]
+## [Implementation of CAS Authentication in ExpressJS](https://github.com/palapav/CAS-Auth-ExpressJS)
 Implemented an API for Princeton's Central Authentication Service in ExpressJS and EJS. This software will be used by 80+ students in Princeton's software engineering course.
 
 ## Evaluating and Extending Biomedical Image Segmentation Models
