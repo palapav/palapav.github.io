@@ -7,12 +7,12 @@ author_profile: true
 
 <!-- ## **Research Projects** -->
 
-### **Generative Linkages**
-Authors: **Aditya Palaparthi**, Alex Guerra, Ryan P. Adams\
-Institution(s): Princeton University\
-Date:  In-Progress
+## **Generative Linkages**
+**Authors**: **Aditya Palaparthi**, Alex Guerra, Ryan P. Adams\
+**Institution**: Princeton University\
+**Date**:  In-Progress
 
-**Info:**
+**Info**:
 Developing a SOTA deep generative model for inversely
 designing linkage mechanisms given a path of motion with
 differentiable simulation capabilities. In this work,
@@ -23,12 +23,12 @@ mechanisms.
 
 ---
 
-### **Discovery of Structural Form with Generative Flow Networks**
-Authors: Alex Guerra<sup>1</sup>, **Aditya Palaparthi**<sup>1</sup>, Robert Hawkins<sup>2</sup>, Sarah-Jane Leslie<sup>1</sup>\
-Institutions: <sup>1</sup>Princeton University, <sup>2</sup>Stanford University \
-Date: In-Progress
+## **Discovery of Structural Form with Generative Flow Networks**
+**Authors**: Alex Guerra<sup>1</sup>, **Aditya Palaparthi**<sup>1</sup>, Robert Hawkins<sup>2</sup>, Sarah-Jane Leslie<sup>1</sup>\
+**Institutions**: <sup>1</sup>Princeton University, <sup>2</sup>Stanford University \
+**Date**: In-Progress
 
-**Info:**
+**Info**:
 Human knowledge is richly structured. We know
 that dogs are more similar to other animals than they are to,
 say, mushrooms (hierarchical), that the sun rises and sets in
@@ -46,33 +46,33 @@ is to develop a single GFlowNet than can sample structures for any subset of hum
 
 ---
 
-### **Differentiable Linkage Kinematics in Geometric Algebra**
-Authors: **Aditya Palaparthi**, Alex Guerra, Ryan P. Adams\
-Institution: Princeton University\
-Date: In-Progress
+## **Differentiable Linkage Kinematics in Geometric Algebra**
+**Authors**: **Aditya Palaparthi**, Alex Guerra, Ryan P. Adams\
+**Institution**: Princeton University\
+**Date**: In-Progress
 
-**Info:**
+**Info**:
 We are developing a differentiable linkage kinematics simulator using geometric algebra theory. In doing so, we not only greatly
 simplify the simulation logic of all types of linkage mechanisms but also simulate any type of 2D or 3D linkage mechanism.
 
 ---
 
-### **Efficient Foundational Models for 3D PDEs**
-Authors: Udbhav Tripathi<sup>1</sup>, Navaneeth N.<sup>1</sup>, **Aditya Palaparthi**<sup>1,2</sup>, Jay Pathak<sup>1</sup>\
-Institution: <sup>1</sup>Ansys, <sup>2</sup>Princeton University\
-Date: In-Progress\
+## **Efficient Foundational Models for 3D PDEs**
+**Authors**: Udbhav Tripathi<sup>1</sup>, Navaneeth N.<sup>1</sup>, **Aditya Palaparthi**<sup>1,2</sup>, Jay Pathak<sup>1</sup>\
+**Institution/Organization**: <sup>1</sup>Ansys, <sup>2</sup>Princeton University\
+**Date**: In-Progress\
 
-**Info:**
+**Info**:
 A foundational model for 3D PDEs has the potential to transform industries by accelerating 3D engineering simulations, reducing computational costs and enabling rapid prototyping and optimizations. This work aims to build upon the efficient 2D PDE foundational model Poseidon to address the challenge of foundational modeling for 3D PDEs. By leveraging pre-training and fine-tuning strategies, we extend the Poseidon paper’s capabilities to handle the added complexity of 3D PDEs. Our approach targets the unique demands of 3D problems, aiming to balance computational efficiency with generalizability.
 
 ---
 
-### **Cleaning Dirty Meshes with Autoencoders**
-**Authors:** **Aditya Palaparthi**<sup>1,2</sup>, Jay Pathak<sup>1</sup>
-**Institution/Organization:** <sup>1</sup>Ansys, <sup>2</sup>Princeton University
-**Date:** In-Progress
+## **Cleaning Dirty Meshes with Autoencoders**
+**Authors**: **Aditya Palaparthi**<sup>1,2</sup>, Jay Pathak<sup>1</sup>
+**Institution/Organization**: <sup>1</sup>Ansys, <sup>2</sup>Princeton University
+**Date**: In-Progress
 
-**Info:**
+**Info**:
 Engineers involved in 3D scanning or engineering sim-
 ulation of CAD models often desire ways to correct er-
 rors in meshes, ranging from small holes to high polygon
@@ -90,12 +90,12 @@ mesh.
 
 ---
 
-### **Exploring Mechanical Linkage Design with Generative Flow Networks**
-**Authors:** **Aditya Palaparthi**, Alex Guerra, Ryan P. Adams\
-**Institution/Organization:** Princeton University\
-**Date:** May 2024 (Presentation @ Princeton)
+## **Exploring Mechanical Linkage Design with Generative Flow Networks**
+**Authors**: **Aditya Palaparthi**, Alex Guerra, Ryan P. Adams\
+**Institution**: Princeton University\
+**Date**: May 2024 (Presentation @ Princeton)
 
-**Info:**  
+**Info**:  
 Synthesizing optimal planar linkage mechanisms given only a traced path of motion is an intractable problem in mechanical engineering. Recently, machine learning solutions have been applied to tackle this linkage synthesis problem; however, no scalable solution has been found yet that can generate a set of optimal planar mechanical linkage designs, ranging in complexity, that best fit any type of generated path of motion by the user. In this work, we take advantage of the recently introduced flow-based generative model, generative flow networks (GFlowNets), and Laman graph theory, to explore the connection of single degree-of-freedom linkage mechanisms with GFlowNets. In doing so, we set the framework for a single generative model that can generate optimal mechanical linkage designs for a given path of motion.
 
 ---
