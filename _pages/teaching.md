@@ -17,7 +17,7 @@ author_profile: true
 
 ## Department of Statistics and Machine Learning, Princeton University
 - Head Undergraduate TA, Artificial Intelligence: A Hands-On Introduction from Basics to ChatGPT (S2024, F2024)
-- Head Undergraduate TA, Machine Learning: A Practical Introduction for Humanists and Social Scientists (S2024)
+- Head Undergraduate TA, Machine Learning: A Practical Introduction for Humanists and Social Scientists (Graduate Course)(S2024)
 
 ## Student Resources
 Will be making this publically available soon!
