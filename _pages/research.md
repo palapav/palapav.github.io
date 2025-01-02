@@ -60,7 +60,7 @@ simplify the simulation logic of all types of linkage mechanisms but also simula
 ## **Efficient Foundational Models for 3D PDEs**
 **Authors**: Udbhav Tripathi<sup>1</sup>, Navaneeth N.<sup>1</sup>, **Aditya Palaparthi**<sup>1,2</sup>, Jay Pathak<sup>1</sup>\
 **Institution/Organization**: <sup>1</sup>Ansys, <sup>2</sup>Princeton University\
-**Date**: In-Progress\
+**Date**: In-Progress
 
 **Info**:
 A foundational model for 3D PDEs has the potential to transform industries by accelerating 3D engineering simulations, reducing computational costs and enabling rapid prototyping and optimizations. This work aims to build upon the efficient 2D PDE foundational model Poseidon to address the challenge of foundational modeling for 3D PDEs. By leveraging pre-training and fine-tuning strategies, we extend the Poseidon paper’s capabilities to handle the added complexity of 3D PDEs. Our approach targets the unique demands of 3D problems, aiming to balance computational efficiency with generalizability.
@@ -68,8 +68,8 @@ A foundational model for 3D PDEs has the potential to transform industries by ac
 ---
 
 ## **Cleaning Dirty Meshes with Autoencoders**
-**Authors**: **Aditya Palaparthi**<sup>1,2</sup>, Jay Pathak<sup>1</sup>
-**Institution/Organization**: <sup>1</sup>Ansys, <sup>2</sup>Princeton University
+**Authors**: **Aditya Palaparthi**<sup>1,2</sup>, Jay Pathak<sup>1</sup>\
+**Institution Organization**: <sup>1</sup>Ansys, <sup>2</sup>Princeton University\
 **Date**: In-Progress
 
 **Info**:
