@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+{% include base_path %}
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% endif %}
+
+{% if page.url != "/" and site.breadcrumbs %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %}
+
+<div id="main" role="main">
+  {% include sidebar.html %}
+
+  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+    {% if page.title %}<meta itemprop="headline" content="{{ page.title }}" />{% endif %}
+    {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}" />{% endif %}
+
+    <div class="page__inner-wrap">
+      <div class="page__content">
+        <!-- {% capture excerpt %}{{ page.excerpt | strip_html | strip_newlines }}{% endcapture %} -->
+        <!-- {% if excerpt != "" %}
+          <p class="page__excerpt">{{ excerpt }}</p>
+        {% endif %} -->
+
+        {{ content }}
+      </div>
+    </div>
+  </article>
+</div>

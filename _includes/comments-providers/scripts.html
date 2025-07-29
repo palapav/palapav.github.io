@@ -1,0 +1,27 @@
+<script>
+// Simple comments system
+document.addEventListener('DOMContentLoaded', function() {
+  const commentForm = document.getElementById('new_comment');
+  if (commentForm) {
+    commentForm.addEventListener('submit', function(e) {
+      e.preventDefault();
+      
+      const formData = new FormData(commentForm);
+      const commentData = {
+        name: formData.get('fields[name]'),
+        email: formData.get('fields[email]'),
+        message: formData.get('fields[message]'),
+        url: formData.get('fields[url]') || '',
+        date: new Date().toISOString()
+      };
+      
+      // For now, just show a success message
+      // In a real implementation, this would send to Staticman or another service
+      alert('Thank you for your comment! In a production environment, this would be saved to the database.');
+      
+      // Clear the form
+      commentForm.reset();
+    });
+  }
+});
+</script>
