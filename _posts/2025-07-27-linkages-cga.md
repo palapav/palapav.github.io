@@ -2,7 +2,7 @@
 title: "Forward Linkage Kinematics with Conformal Geometric Algebra"
 date: 2025-05-07
 categories: [blog]
-tags: [linkages, robotics, kinematics, geometric-algebra, Lie algebra, optimization]
+tags: [linkages, robotics, kinematics, geometric-algebra, Lie algebra, manifold-optimization, JAX]
 layout: blog
 comments: true
 excerpt: "We present a novel formulation of planar closed-loop linkage kinematics using conformal geometric algebra (CGA), enabling compact, coordinate-free representation of linkage elements and constraints."
@@ -155,7 +155,7 @@ Future directions will include expanding kinematics to other types of mechanisms
 
 ## 7 Acknowledgments
 
-I would like to thank Alex Guerra, PhD candidate in the Department of Computer Science at Princeton University for his advising and making important contributions in developing a geometric algebra library in JAX, including implementing lie algebras in geometric algebra, which this project uses. I would like to also thank Ryan P. Adams, Professor of Computer Science at Princeton University, for his advising on this project.
+I would like to thank Alex Guerra, PhD candidate in the Department of Computer Science at Princeton University for his advising and making important contributions in developing a geometric algebra library in JAX, including implementing lie algebras in geometric algebra, which this project uses. I would like to also thank Ryan P. Adams, Professor of Computer Science at Princeton University, for his advising on this project. This work was a part of my senior thesis (May 2025) at Princeton University.
 
 ## 8 References
 
